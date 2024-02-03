@@ -18,7 +18,7 @@ npm install # yarn install
 1. Run the vulnerable application:
 
 ```bash
-node app.js
+node main.js
 ```
 2. Open your web browser and visit http://localhost:3000.
 3. You will see a simple HTML form that allows you to enter mathematical expressions.
