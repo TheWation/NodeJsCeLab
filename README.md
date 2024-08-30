@@ -37,7 +37,8 @@ it's important to note that the vulnerability extends to command injection.
 ### Disclaimer
 
 This code is intentionally vulnerable and should only be used for educational purposes. Do not deploy this code in a production environment.
-Mitigation
+
+### Mitigation
 
 To secure the application, avoid using eval() with user input. Instead, implement a safer method to evaluate expressions.
 
